@@ -1,16 +1,15 @@
 # Transformer
 My implementation Transformer model (Attention is All You Need - Google Brain, 2017)
 <br><br>
-![model](images/model.jpg){:width="400px"}
-![model](images/model2.jpg){:width="400px"}
+<img src="images/model.jpg" width="60%" alt="model">
+<img src="images/model2.jpg" width="60%" alt="model">
 <br><br>
 
 ## 1. Implementations
 
 ### 1.1 Positional Encoding
 
-![model](images/positional_encoding.jpg){:width="400px"}
-   
+<img src="images/positional_encoding.jpg" width="60%" alt="model">
     
 ```python
 class PositionalEncoding(nn.Module):
@@ -58,8 +57,8 @@ class PositionalEncoding(nn.Module):
 
 ### 1.2 Model Embedding
 
-![model](images/embedding.jpg){:width="400px"}
-   
+<img src="images/embedding.jpg" width="60%" alt="model">
+
     
 ```python
 class TransformerEmbedding(nn.Module):
@@ -89,8 +88,7 @@ class TransformerEmbedding(nn.Module):
 
 ### 1.3 Multi-Head Attention
 
-
-![model](images/multi_head_attention.jpg){:width="400px"}
+<img src="images/multi_head_attention.jpg" width="60%" alt="model">
 
 ```python
 class MultiHeadAttention(nn.Module):
@@ -155,7 +153,7 @@ class MultiHeadAttention(nn.Module):
 
 ### 1.4 Scale Dot Product Attention
 
-![model](images/attention.jpg){:width="400px"}
+<img src="images/attention.jpg" width="60%" alt="model">
 
 ```python
 class ScaleDotProductAttention(nn.Module):
@@ -196,8 +194,9 @@ class ScaleDotProductAttention(nn.Module):
 
 ### 1.5 Layer Norm
 
-![model](image/layer_norm.jpg){:width="400px"}
-    
+<img src="images/layer_norm.jpg" width="60%" alt="model">
+
+
 ```python
 class LayerNorm(nn.Module):
     def __init__(self, d_model, eps=1e-12):
@@ -220,7 +219,8 @@ class LayerNorm(nn.Module):
 
 ### 1.6 Feed Forward
 
-![model](images/feed_forward.jpg){:width="400px"}
+<img src="images/feed_forward.jpg" width="60%" alt="model">
+
     
 ```python
 
@@ -244,8 +244,9 @@ class PositionwiseFeedForward(nn.Module):
 
 ### 1.7 Encoder & Decoder Structure
 
-![model](images/enc_dec.jpg){:width="400px"}
-    
+<img src="images/enc_dec.jpg" width="60%" alt="model">
+
+
 ```python
 class EncoderLayer(nn.Module):
 
