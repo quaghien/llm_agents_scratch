@@ -1,4 +1,4 @@
-# Transformer
+# Transformer from scratch
 My implementation Transformer model (Attention is All You Need - Google Brain, 2017)
 <br><br>
 <img src="images/model.jpg" width="60%" alt="model">
@@ -55,7 +55,7 @@ class PositionalEncoding(nn.Module):
 ```
 <br><br>
 
-### 1.2 Model Embedding
+### 1.2 Transformer Embedding
 
 <img src="images/embedding.jpg" width="60%" alt="model">
 
