@@ -1,15 +1,15 @@
 # Transformer
 My implementation Transformer model (Attention is All You Need - Google Brain, 2017)
 <br><br>
-![model](images/model.jpg)
-![model](images/model2.jpg)
+![model](images/model.jpg){:width="400px"}
+![model](images/model2.jpg){:width="400px"}
 <br><br>
 
 ## 1. Implementations
 
 ### 1.1 Positional Encoding
 
-![model](images/positional_encoding.jpg)
+![model](images/positional_encoding.jpg){:width="400px"}
    
     
 ```python
@@ -58,7 +58,7 @@ class PositionalEncoding(nn.Module):
 
 ### 1.2 Model Embedding
 
-![model](images/embedding.jpg)
+![model](images/embedding.jpg){:width="400px"}
    
     
 ```python
@@ -90,7 +90,7 @@ class TransformerEmbedding(nn.Module):
 ### 1.3 Multi-Head Attention
 
 
-![model](images/multi_head_attention.jpg)
+![model](images/multi_head_attention.jpg){:width="400px"}
 
 ```python
 class MultiHeadAttention(nn.Module):
@@ -155,7 +155,7 @@ class MultiHeadAttention(nn.Module):
 
 ### 1.4 Scale Dot Product Attention
 
-![model](images/attention.jpg)
+![model](images/attention.jpg){:width="400px"}
 
 ```python
 class ScaleDotProductAttention(nn.Module):
@@ -196,7 +196,7 @@ class ScaleDotProductAttention(nn.Module):
 
 ### 1.5 Layer Norm
 
-![model](image/layer_norm.jpg)
+![model](image/layer_norm.jpg){:width="400px"}
     
 ```python
 class LayerNorm(nn.Module):
@@ -220,7 +220,7 @@ class LayerNorm(nn.Module):
 
 ### 1.6 Feed Forward
 
-![model](images/feed_forward.jpg)
+![model](images/feed_forward.jpg){:width="400px"}
     
 ```python
 
@@ -244,7 +244,7 @@ class PositionwiseFeedForward(nn.Module):
 
 ### 1.7 Encoder & Decoder Structure
 
-![model](images/enc_dec.jpg)
+![model](images/enc_dec.jpg){:width="400px"}
     
 ```python
 class EncoderLayer(nn.Module):
