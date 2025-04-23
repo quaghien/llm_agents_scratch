@@ -1,8 +1,8 @@
 # Transformer
 My implementation Transformer model (Attention is All You Need - Google Brain, 2017)
 <br><br>
-![model](images/model.png)
-![model](images/model2.png)
+![model](images/model.jpg)
+![model](images/model2.jpg)
 <br><br>
 
 ## 1. Implementations
