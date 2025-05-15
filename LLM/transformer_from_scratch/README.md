@@ -385,6 +385,5 @@ class Decoder(nn.Module):
 
 ## 2. Reference
 - [Attention is All You Need, 2017 - Google](https://arxiv.org/abs/1706.03762)
-- [PyTorch Implementation of "Attention Is All You Need" - hyunwoongko](https://github.com/hyunwoongko/transformer)
 
 <br><br>
