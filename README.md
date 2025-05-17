@@ -1,4 +1,4 @@
-# LLM-RAG-AGENTS
+# LLM-Agents-scratch
 
 This project is a modular workspace for independently exploring key components in modern LLM systems, ranging from core transformer implementation to RAG pipelines and autonomous agents.
 
