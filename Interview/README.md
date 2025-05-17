@@ -9,7 +9,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-![Interview Prep](images/interviewprep.jpg)
+<img src="images/interviewprep.jpg" width="60%" alt="model">
 
 ---
 ## Table of Contents
