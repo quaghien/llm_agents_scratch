@@ -457,7 +457,7 @@ Further Reading on Model Compression
 
 ## Pruning
 
-<img src="images/quanti.png" width="60%" alt="model">
+<img src="images/pruning.png" width="60%" alt="model">
 
 # Efficient Training for Large Language Models (LLMs)
 
