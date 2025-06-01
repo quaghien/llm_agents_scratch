@@ -12,7 +12,7 @@ Build transformer-based LLMs from scratch — from core components (embedding, a
   - [5. Layer Norm](#5-layer-norm)
   - [6. Feed Forward](#6-feed-forward)
   - [7. Encoder & Decoder Structure](#7-encoder--decoder-structure)
-- [GPT → LLaMA2 → LLaMA3 → LLaMA3.1 → LLaMA3.2 from scratch](#gpt--llama2--llama3--llama31--llama32-from-scratch)
+- [GPT → LLaMA2 → LLaMA3 → LLaMA3.1 → LLaMA3.2 from scratch](#gpt---llama2---llama3---llama31---llama32-from-scratch)
 - [Qwen 3 four stages training pipeline](#qwen-3-four-stages-training-pipeline)
 - [Mixture-of-Experts (MoE)](#mixture-of-experts-moe)
 - [Model Compression](#model-compression)
