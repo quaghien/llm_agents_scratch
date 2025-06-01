@@ -1,4 +1,4 @@
-# Transformer Model Implementation and Transition
+# GPT-Llama2-Llama3-Llama3.1-Llama3.2_from_scratch
 
 This project includes my own implementation of GPT and LLaMA 3.2, along with a step-by-step transition from GPT to LLaMA 3.2 through intermediate architectures.
 
