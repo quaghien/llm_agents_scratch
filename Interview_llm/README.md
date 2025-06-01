@@ -30,7 +30,7 @@ This repository contains over 100+ interview questions for Large Language Models
 14. [Prompt Hacking](#prompt-hacking)
 15. [Miscellaneous](#miscellaneous)
 16. [Case Studies](#case-studies)
-
+17. [Keys](#keys)
 ---
 
 ## Prompt Engineering & Basics of LLM
@@ -267,3 +267,21 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
+## Keys:
+
+1. [Prompt Engineering & Basics of LLM](https://docs.google.com/document/d/1fVU2g6Zl6vZFEoM9IM0UxC5ai4llC5_O2R_b_QE6rc0/edit?usp=sharing)
+2. [Retrieval Augmented Generation (RAG)](https://docs.google.com/document/d/1pimU9Ma6DK834-turCpYop6eAe_Jpp3BrptOwhroBwE/edit?usp=drive_link)
+3. [Document Digitization & Chunking](https://docs.google.com/document/d/15Q1y43MrFSj5C4UCBOBV01lvOrmFGe9LLpcsQ6pGVD0/edit?usp=drive_link)
+4. [Embedding Models](https://docs.google.com/document/d/1bGv0kUwuf0dRpCVRLnbbFxuWNrTb0UdDp5_f3yXTDIk/edit?usp=drive_link)
+5. [Internal Working of Vector Databases](https://docs.google.com/document/d/16c4BIuMx8tyL2wWo2wtJmCgXGTnKtVQ4iCB-qWljRYA/edit?usp=drive_link)
+6. [Advanced Search Algorithms](https://docs.google.com/document/d/13V_9rLuyXiG5i6y3as0vcMDvaSXfspmtDtGKmkAQUxg/edit?usp=drive_link)
+7. [Language Models Internal Working](https://docs.google.com/document/d/1lHFHjzubA-YzBVetyA_TIrfWj8Uodjf4dZ2Mu2jNFBs/edit?usp=drive_link)
+8. [Supervised Fine-Tuning of LLM](https://docs.google.com/document/d/1r-m6rK1O_-9i2V-VpPGT3gULn4E9RlvbChaBvNbLWgY/edit?usp=drive_link)
+9. [Preference Alignment (RLHF / RLAIF / DPO / PPO / GRPO / ...)](https://docs.google.com/document/d/1x7skyy50qQj3K-TU2v1K-2Pmyk_jH6fGgrl4qj0J1WE/edit?usp=drive_link)
+10. [Evaluation of LLM System](https://docs.google.com/document/d/1c9_yV_KpEGHv3kE7G0tLDAGCNcO4NTvGw7MuFYsMnms/edit?usp=drive_link)
+11. [Hallucination Control Techniques](https://docs.google.com/document/d/1L7VKVoukiA-vEnayO-lN8ZbIGHnGSerybgloPJxoan8/edit?usp=drive_link)
+12. [Deployment of LLM](https://docs.google.com/document/d/1zHZSSXgeEyA6ZEoGbotOlgrNNZTZ9o5LYgXdOT7Aj8w/edit?usp=drive_link)
+13. [Agent-Based System](https://docs.google.com/document/d/1NUjpCp8YArbilqUwPYa518KsWt66vaLwQd2e4GdxLgo/edit?usp=drive_link)
+14. [Prompt Hacking](https://docs.google.com/document/d/12EqJbgNVF463aHao9TKxkFkPrWRQoIUl3TMnBn7SpwQ/edit?usp=drive_link)
+15. [Miscellaneous](https://docs.google.com/document/d/1MKb0ffhD5sQQi01A9WaaOZ0y1XYISNdQpm1skUkerk8/edit?usp=drive_link)
+16. [Case Studies](https://docs.google.com/document/d/1KrgqAkAWQHjX8VMulJwrgDIUKRODPdaEcDTB0hMKuY8/edit?usp=drive_link)

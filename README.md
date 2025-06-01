@@ -1,3 +1,7 @@
+# Project Description
+
+Build transformer-based LLMs from scratch — from core components (embedding, attention, etc.) to full GPT/LLaMA models. Includes training pipelines, compression, and efficiency techniques.
+
 ## Table of Contents
 
 - [Transformer from scratch](#transformer-from-scratch)
@@ -536,3 +540,5 @@ These values may vary based on implementation details.
 # Prompting
 
 Reference: [Prompt Engineering Guide](https://www.promptingguide.ai/en)
+
+[Back to Top](#table-of-contents)
